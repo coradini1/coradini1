@@ -7,7 +7,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/gabriel-coradini-131217249/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Coradini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=coradini1&style=for-the-badge&color=38bdf8&label=VISITAS" alt="visitas" />
 
 </div>
 
@@ -46,25 +45,11 @@ const gabriel = {
 
 <br/>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coradini1&theme=tokyonight" width="100%" alt="detalhes" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=coradini1&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="180" alt="streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coradini1&theme=tokyonight" height="180" alt="linguagens" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coradini1&theme=tokyonight" height="180" alt="commits por linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coradini1&theme=tokyonight" height="180" alt="stats" />
-</div>
-
-<br/>
-
 ## 🛠️ Projetos
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| **Coyote-Trade** | Plataforma de trading com pagamentos e execução de ordens reais | React, TypeScript, Express, Drizzle, Stripe, Alpaca API |
+| **Coyote-Trade** | Plataforma de trading com pagamentos (Stripe) e paper trading via Alpaca API | React, TypeScript, Express, Drizzle, Stripe, Alpaca API |
 | **MediaHarvest** | Extensão pública do Chrome para baixar vídeos em vários formatos | JavaScript, Chrome Extension API |
 | **MessageHarvest** *(privado)* | Bot de WhatsApp em produção com IA, stickers e download de vídeos | Node.js, Docker, ffmpeg, WebSockets, PM2 |
 | **cigar-rex** *(privado)* | Plataforma de assinaturas para criadores, estilo Patreon, com painel admin | AdonisJS, MySQL, AWS S3, Stripe, React |
