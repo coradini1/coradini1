@@ -56,13 +56,4 @@ const gabriel = {
 
 <br/>
 
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coradini1/coradini1/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/coradini1/coradini1/output/snake.svg" alt="snake" width="100%" />
-  </picture>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,60:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
